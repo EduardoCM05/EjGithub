@@ -1,2 +1,2 @@
 # EjGithub
-Este es el terer intento desde git
+Este es el tercer intento desde git y si se logro completar :)
